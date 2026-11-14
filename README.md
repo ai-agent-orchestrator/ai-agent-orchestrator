@@ -1,3 +1,7 @@
+<p align="center"><b>Three AI agents that turn each other.</b><br>
+<b>Researcher</b> finds and decides what matters · <b>NightCoder</b> builds it overnight · <b>Life Balancer</b> turns it into daily action and keeps life in balance.<br>
+What I learn from acting feeds the next round of research.</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ai-agent-orchestrator/ai-multi-agent-orchestration/main/assets/diagrams/three-gears-dark.png" alt="Researcher, NightCoder, Life Balancer" width="760">
 </p>
