@@ -1,4 +1,4 @@
-<p align="center"><b>Three AI agents that turn each other.</b><br>
+<p align="center"><b>Three AI agents run as one.</b><br>
 <b>Researcher</b> finds and decides what matters · <b>NightCoder</b> builds it overnight · <b>Life Balancer</b> turns it into daily action and keeps life in balance.<br>
 What I learn from acting feeds the next round of research.</p>
 
