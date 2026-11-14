@@ -8,8 +8,8 @@ Medical background · legal dispute structuring · AI-native backend and multi-a
 
 | Year | Goal |
 | --- | --- |
-| 2026 | Run three multi-agent systems as one: **Researcher** finds and decides, **NightCoder** builds overnight, **Life Organizer + Life Balancer** turn it into daily action. Build **Legal Intake** and **Medical** projects on the same engine. |
-| 2027 | Go deeper: domain-specific agents (legal, medical) and function-specific components with improved agents. |
+| 2026 | Run three multi-agent systems as one: **Researcher** finds and decides, **NightCoder** builds overnight, **Life Organizer + Life Balancer** turn it into daily action. Develop **commercial Legal and Medical AI multi-agent programs** on the same engine. |
+| 2027 | Advance and commercialize: deeper domain-specific agents (legal, medical) and function-specific components with improved agents, taken to market. |
 
 | Repository | What it shows |
 | --- | --- |
