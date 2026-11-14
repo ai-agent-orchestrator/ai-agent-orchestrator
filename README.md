@@ -32,5 +32,4 @@ The goal is simple: spend less time on mechanical work and more on research, str
 | Backend | Java 21 · Spring Boot (REST, JPA, Security, Virtual Threads, Actuator) · Python · FastAPI (asyncio, SSE) |
 | AI orchestration | LangChain · LangGraph · LangSmith · NVIDIA NeMo Guardrails |
 | Models | Claude · Codex · Google Gemini · Meta Llama (Ollama, local) |
-| Data | PostgreSQL · Chroma (vector) · JPA / SQL |
 | Frontend and ops | React · Vite · Prometheus · Grafana · Postman |
