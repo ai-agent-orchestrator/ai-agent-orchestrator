@@ -1,6 +1,5 @@
-<p align="center"><b>Three AI agents run as one.</b><br>
-<b>Researcher</b> finds and decides what matters · <b>NightCoder</b> builds it overnight · <b>Life Balancer</b> turns it into daily action and keeps life in balance.<br>
-What I learn from acting feeds the next round of research.</p>
+<p align="center"><b>Run three multi-agent systems as one.</b><br>
+The goal is simple: spend less time on mechanical work and more on research, strategic planning, decisions and action, across a wide and deep range of areas. I run these systems on myself first and measure what they change before offering them to anyone else.</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ai-agent-orchestrator/ai-multi-agent-orchestration/main/assets/diagrams/three-gears-dark.png" alt="Researcher, NightCoder, Life Balancer" width="760">
@@ -14,8 +13,6 @@ Medical background · legal dispute structuring · AI-native backend and multi-a
 | --- | --- |
 | 2026 | Run three multi-agent systems as one: **Researcher** finds and decides, **NightCoder** builds overnight, **Life Organizer + Life Balancer** turn it into daily action. Develop **commercial Legal and Medical AI multi-agent programs** on the same engine. |
 | 2027 | Advance and commercialize: deeper domain-specific agents (legal, medical) and function-specific components with improved agents, taken to market. |
-
-The goal is simple: spend less time on mechanical work and more on research, strategic planning, decisions and action, across a wide and deep range of areas. I run these systems on myself first and measure what they change before offering them to anyone else.
 
 | | Agent 1 · Researcher + Edge Equalizer | Agent 2 · NightCoder Relay | Agent 3 · Life Organizer + Life Balancer |
 | --- | --- | --- | --- |
