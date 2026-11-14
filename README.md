@@ -34,12 +34,3 @@ The goal is simple: spend less time on mechanical work and more on research, str
 | Models | Claude · Codex · Google Gemini · Meta Llama (Ollama, local) |
 | Data | PostgreSQL · Chroma (vector) · JPA / SQL |
 | Frontend and ops | React · Vite · Prometheus · Grafana · Postman |
-
-| Repository | What it shows |
-| --- | --- |
-| [ai-multi-agent-orchestration](https://github.com/ai-agent-orchestrator/ai-multi-agent-orchestration) | The three agents and how they fit together |
-| [nightcoder](https://github.com/ai-agent-orchestrator/nightcoder/blob/main/docs/FIELD_NOTES_2026-11.md) | Field notes: 16 incidents from unattended overnight AI coding, and the fixes |
-| [ai-technical-pm-checklist](https://github.com/ai-agent-orchestrator/ai-technical-pm-checklist) | The checklist I apply to every new build |
-| [legal-intake-fastapi-lab](https://github.com/ai-agent-orchestrator/legal-intake-fastapi-lab) | FastAPI legal intake with guardrails and retrieval |
-| [legal-ai-intake-system](https://github.com/ai-agent-orchestrator/legal-ai-intake-system) | Spring Boot legal intake: security, cost control, observability |
-| [spring-fastapi-async-refactor](https://github.com/ai-agent-orchestrator/spring-fastapi-async-refactor) | Async refactoring across Spring Boot and FastAPI |
