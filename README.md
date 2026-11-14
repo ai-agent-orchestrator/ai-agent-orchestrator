@@ -11,6 +11,16 @@ Medical background · legal dispute structuring · AI-native backend and multi-a
 | 2026 | Run three multi-agent systems as one: **Researcher** finds and decides, **NightCoder** builds overnight, **Life Organizer + Life Balancer** turn it into daily action. Develop **commercial Legal and Medical AI multi-agent programs** on the same engine. |
 | 2027 | Advance and commercialize: deeper domain-specific agents (legal, medical) and function-specific components with improved agents, taken to market. |
 
+#### Stack
+
+| Area | Tools |
+| --- | --- |
+| Backend | Java 21 · Spring Boot (REST, JPA, Security, Virtual Threads, Actuator) · Python · FastAPI (asyncio, SSE) |
+| AI orchestration | LangChain · LangGraph · LangSmith · NVIDIA NeMo Guardrails |
+| Models | Claude · Codex · Google Gemini · Meta Llama (Ollama, local) |
+| Data | PostgreSQL · Chroma (vector) · JPA / SQL |
+| Frontend and ops | React · Vite · Prometheus · Grafana · Postman |
+
 | Repository | What it shows |
 | --- | --- |
 | [ai-multi-agent-orchestration](https://github.com/ai-agent-orchestrator/ai-multi-agent-orchestration) | The three agents and how they fit together |
