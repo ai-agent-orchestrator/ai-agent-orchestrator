@@ -14,11 +14,11 @@ Medical background · legal dispute structuring · AI-native backend and multi-a
 | 2026 | 1. **Researcher** finds and decides, **NightCoder** builds overnight, **Life Organizer + Life Balancer** turn it into daily action.<br>2. Develop **commercial Legal and Medical AI multi-agent programs** on the same engine. |
 | 2027 | Advance and commercialize: deeper domain-specific agents (legal, medical) and function-specific components with improved agents, taken to market. |
 
-| | Agent 1 · Researcher + Edge Equalizer | Agent 2 · NightCoder Relay | Agent 3 · Life Organizer + Life Balancer |
+| | Agent 1 · Researcher w/ Filter Engine | Agent 2 · NightCoder Relay | Agent 3 · Multi-Agent Orchestrator |
 | --- | --- | --- | --- |
 | Job | turn feeds and long AI-chat drafts into reviewed research and decisions | build code overnight from specs and verify it | turn results into daily and weekly action, keep life areas in balance |
-| Agents | local Llama · Google AI · Claude (verification) | Claude (CTO, specs) · Codex CLI | owner · Google AI · Claude |
-| Core idea | a free local filter first; paid search only on what survives | never trust the coder's report: re-run tests, guard the diff, never push | three clear roles, one checklist, a weekly look back |
+| Agents | Google Lite (serverless + 24/7 mobile + tablet) + own filter engine (swappable) + Google AI | Claude: CTO = Fable + Opus; coder = Sonnet | Owner (HITL) + Google AI + swappable tools (agent extension) |
+| Core idea | a free local filter first; paid search only on what survives | Google draft → Opus design → Fable review + refactoring → Sonnet coding | three clear roles, one checklist, a weekly look back |
 | Human step | approve what leaves the device, decide | review and merge | set priorities, act |
 | Status | pipeline built and offline-tested; engine being rebuilt | in daily use; v2.2 in development | concept design, private |
 
