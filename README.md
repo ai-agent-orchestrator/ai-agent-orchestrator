@@ -3,10 +3,7 @@
 <p align="center">
 Spend less time on mechanical work.<br>
 Spend more on research, strategy, decisions and action.<br>
-Across a wide and deep range of areas.<br>
-I run these systems on myself first.<br>
-I measure what they change.<br>
-Then I offer them to others.
+Across a wide and deep range of areas.
 </p>
 
 <p align="center">
