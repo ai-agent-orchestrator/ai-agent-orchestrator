@@ -36,3 +36,12 @@ Medical background · legal dispute structuring · AI-native backend and multi-a
 | Models | Claude · Codex · Google Gemini · Meta Llama (Ollama, local) |
 | Data | Neo4j (Graph DB / GraphRAG) · PostgreSQL · Chroma (Vector DB) · JPA / SQL |
 | Frontend and ops | React · Vite · Prometheus · Grafana · Postman |
+
+#### Fun coder :
+
+설치 없이 브라우저에서 바로 시작해 보세요.
+
+| Free prompt token saver | Tarot reading | Lumi's dillemma |
+| :---: | :---: | :---: |
+| 긴 프롬프트를 짧게 정리해 토큰 아끼기 | 펼쳐진 타로 카드에서 직접 3장 고르기 | Lumi와 일상 고민을 다른 관점으로 살펴보기 |
+| **[토큰 아끼기](https://ai-agent-orchestrator.github.io/prompt-token-saver/)** | **[카드 선택하기](https://ai-agent-orchestrator.github.io/karmic-resonance/tarot/)** | **[고민 상담해보기](https://ai-agent-orchestrator.github.io/karmic-resonance/)** |
