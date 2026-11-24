@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="20 25 215 240" role="img" aria-labelledby="lumi-title">
+  <title id="lumi-title">루미 노랑이 — Explore Your Little Universe</title>
+  <!--Original Lumi artwork from ai-agent-orchestrator/explore-your-little-universe @ 5d9f167de24d39bced50b38184598567304e545f, docs/images/lumi.svg; character group extracted without changing its paths or colors.-->
+  <ellipse cx="122" cy="249" rx="73" ry="11" fill="#d9cae8" />
+  <path d="M122 20Q132 17 141 62L151 82L198 83Q218 84 203 103L172 137L184 185Q188 209 165 197L123 175L79 199Q57 210 64 184L73 138L40 104Q23 86 47 84L93 80L112 31Q116 21 122 20" transform="translate(0 15)" fill="#f6cf67" stroke="#665071" stroke-width="4" stroke-linejoin="round" />
+  <path d="M94 132Q99 121 105 132M142 132Q148 121 154 132" fill="none" stroke="#594463" stroke-width="4" stroke-linecap="round" />
+  <path d="M111 151Q125 171 139 151Z" fill="#956879" />
+  <ellipse cx="84" cy="151" rx="11" ry="6" fill="#efa39a" />
+  <ellipse cx="163" cy="151" rx="11" ry="6" fill="#efa39a" />
+  <path d="M42 46L47 33L52 46L65 51L52 56L47 69L42 56L29 51Z" fill="#ad93cb" />
+  <path d="M204 174L209 161L214 174L227 179L214 184L209 197L204 184L191 179Z" fill="#ad93cb" />
+  <circle cx="207" cy="63" r="5" fill="#c3b0df" />
+</svg>
